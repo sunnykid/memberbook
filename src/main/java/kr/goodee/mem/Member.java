@@ -58,6 +58,7 @@ public class Member {
 		// TODO Auto-generated method stub
 		
 	}
+	
 
 	public void setMbName(String string) {
 		// TODO Auto-generated method stub
